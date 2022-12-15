@@ -18,10 +18,10 @@
   $ python run.py
  ```
 ### TAMPILAN:
-![template_s](https://github.com/Yayan-XD/Brute/blob/master/__pycache__/IMG_20210703_070319.jpg)
+![template_s](https://github.com/Xyaa-Code/AdtyaEncrypt/blob/main/__pycache__/Screenshot_2022-12-16-03-23-15-45_84d3000e3f4017145260f7618db1d683.jpg)
 
 ### HASIL ENCRYPT:
 
-![template_s](https://github.com/Yayan-XD/Brute/blob/master/__pycache__/IMG_20210703_074349.jpg)
+![template_s](https://github.com/Xyaa-Code/AdtyaEncrypt/blob/main/__pycache__/Screenshot_2022-12-16-03-23-42-44_84d3000e3f4017145260f7618db1d683.jpg)
 
 ###### Thanks for [Yayan-XD](https://github.com/Yayan-XD) and [Rizky Dev](https://github.com/hekelpro)
