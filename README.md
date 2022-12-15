@@ -24,4 +24,4 @@
 
 ![template_s](https://github.com/Xyaa-Code/AdtyaEncrypt/blob/main/__pycache__/Screenshot_2022-12-16-03-23-42-44_84d3000e3f4017145260f7618db1d683.jpg)
 
-###### Thanks for [Yayan-XD](https://github.com/Yayan-XD) and [Rizky Dev](https://github.com/hekelpro)
+###### Thanks for [Xyaa-Code](https://github.com/Xyaa-Code) and [Adtya XC](https://github.com/AdtyaXC)
